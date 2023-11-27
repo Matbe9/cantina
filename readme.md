@@ -8,7 +8,7 @@ Néphélées est le cloud en ligne de la suite cantina
 
 ## Contribuer :
 
-#### Attention : l'installation de l'outil [Néphélées](https://github.com/Cantina-Org/Néphélées) (conseillé via [Ouranos](https://github.com/Cantina-Org/Ouranos)) est obligatoire ! (Sinon c'est un peu comme avoir une voiture sans les roues 😇.)
+#### Attention : l'installation de l'outil [Cerbere](https://github.com/Cantina-Org/Cerbere) (conseillé via [Ouranos](https://github.com/Cantina-Org/Ouranos)) est obligatoire ! (Sinon c'est un peu comme avoir une voiture sans les roues 😇.)
 
 ### Étape 1:
 Cloner votre [fork](https://github.com/Cantina-Org/Néphélées/fork) de Néphélées.
